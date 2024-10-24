@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)]
 <h1 align="center">Hi 👋, I'm Anjana Adi Sathvik</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://shorturl.at/jNqbU">
+<!-- <img align="right" alt="Coding" width="400" src="https://shorturl.at/jNqbU"> -->
 
 - 🔭 I’m currently working on **Hotel Management System**
 
